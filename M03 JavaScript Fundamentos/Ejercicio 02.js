@@ -42,7 +42,7 @@ multiplica(2,8);
 function obtenerResto(x, y) {
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
-   resultado=x%y;
+   resultado=x % y;
    return resultado;
 }
 obtenerResto(10,3);

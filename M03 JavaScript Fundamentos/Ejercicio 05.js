@@ -49,7 +49,7 @@ function retornarPerimetro(lado) {
    // La función recibe como argumento la medida de un lado de un cuadrado.
    // Debes retornar su perímetro.
    // Tu código:
-   perimetro=(lado*4);
+   perimetro=(lado * 4);
    return perimetro;
 }
 
